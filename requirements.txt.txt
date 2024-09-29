@@ -1,3 +1,0 @@
-paho-mqtt
-PyQt5
-sqlite3
